@@ -13,6 +13,9 @@
 
 # Data
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=meteor-z)](http://liuzechen.top)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meteor-z)](http://liuzechen.top)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](http://liuzechen.top)
