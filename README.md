@@ -1,8 +1,6 @@
-![开头](https://rishavanand.github.io/static/images/greetings.gif)
-
 # About me
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="300" hight="300" >
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="400" hight="400" >
 
 - 🔭 I’m currently studying on [zzuli](http://www.zzuli.edu.cn/)
 - 🌱 I’m currently learning `Java`
