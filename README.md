@@ -1,6 +1,6 @@
 # About me
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="350" hight="350" >
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="300" hight="300" >
 
 - 🔭 I’m currently studying on [zzuli](http://www.zzuli.edu.cn/)
 - 🌱 I’m currently learning `Java`
