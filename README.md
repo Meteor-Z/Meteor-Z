@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with `Java`,`Algorithm`
 - 💬 Ask me about `Java`,`Algorithm`
 - 😄 Pronouns: `coder`
-- ⚡ Fun fact: `i like plush toy`  
+- ⚡ Fun fact: `I like plush toy`  
 
 # Data
 
