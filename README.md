@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ![开头](https://rishavanand.github.io/static/images/greetings.gif)
 
 # About me
@@ -13,10 +10,6 @@
 - 💬 Ask me about `Java`,`Algorithm`
 - 😄 Pronouns: `coder`
 - ⚡ Fun fact: `i like plush toy`  
-
-
-# Connect to me
-
 
 # Data
 
