@@ -9,6 +9,8 @@
 - 😄 Pronouns: `coder`
 - ⚡ Fun fact: `I like plush toy`  
 
+This is [My Blog](http://liuzechen.top) !
+I hope you can read my blog and make corrections to my blog content, thank you!
 # Data
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=meteor-z)](http://liuzechen.top)
