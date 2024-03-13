@@ -1,21 +1,10 @@
 # About me
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="300" hight="300" >
+- 个人网站：[liuzechen.top](liuzechen.top)
+- C/C++，Linux爱好者
+- 知乎：[Meteor_Z](https://www.zhihu.com/people/newlzc)
 
-- 🔭 I’m currently studying on [zzuli](http://www.zzuli.edu.cn/)
-- 🌱 I’m currently learning `Java`
-- 🤔 I’m looking for help with `Java`,`Algorithm`
-- 💬 Ask me about `Java`,`Algorithm`
-- 😄 Pronouns: `coder`
-- ⚡ Fun fact: `I like plush toy`  
+## 个人目标
 
-This is [My Blog](http://liuzechen.top) !
-I hope you can read my blog and make corrections to my blog content, thank you!
-# Data
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=meteor-z)](http://liuzechen.top)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meteor-z)](http://liuzechen.top)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](http://liuzechen.top)
+- 在开源项目中做出相关贡献
+- 在2024年中找到相关C/C++实习
