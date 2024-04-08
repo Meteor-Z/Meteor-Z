@@ -8,3 +8,5 @@
 
 - 在开源项目中做出相关贡献
 - 在2024年中找到相关C/C++实习
+
+![Visitor Count](https://profile-counter.glitch.me/Meteor-Z/count.svg)
